@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module provides a type-annotated function to calculate the floor of a float.
+This module provides a type-annotated floor function.
 """
 import math
 
