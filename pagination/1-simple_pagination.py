@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module contains a helper function and a Server class for pagination.
+This module contains a helper function and a Server class
 """
 import csv
 import math
